@@ -1,4 +1,4 @@
-At Netspective Foundation, Inc., our non-profit mission is to improve medical outcomes for patients and enhance medical research.
+At Netspective Foundation our non-profit mission is to improve medical outcomes for patients and enhance medical research.
 
 We do this by developing open source software and intellectual property that drives innovation in diagnostics and treatments. 
 
